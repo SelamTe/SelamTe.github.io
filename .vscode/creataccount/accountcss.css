@@ -4,7 +4,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: rgb(244, 247, 242);
+	background: rgb(237, 219, 101);
 	
 }
 
@@ -12,9 +12,9 @@ body{
 .first{
 
     margin-top: 10%;
-    border: 10px solid rgb(132, 172, 68);
+    border: 10px solid rgb(47, 230, 65);
     padding: 10px;
-    background-color: rgb(242, 197, 179);
+    background-color: rgb(215, 135, 207);
     border-radius: 20px;
     border-style: outset;
 }
